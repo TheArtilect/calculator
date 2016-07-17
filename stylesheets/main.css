@@ -1,1 +1,71 @@
-This is a css file
+body,
+div,
+a {
+  padding: 0;
+  margin: 0;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: white;
+  margin-top: 80px;
+}
+
+body {
+  background-color: #000013
+}
+
+#test {
+  color: black;
+}
+
+#calc {
+  background-color: #999;
+  width: 330px;
+  height: 450px;
+  border: 3px black solid;
+  margin: 10px auto;
+  margin-top: 50px;
+  padding: 5px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
+}
+
+#calc a {
+  display: block;
+  float: left;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  background: -moz-linear-gradient(top, #EDEDED, #DCDCDC);
+  background: -webkit-gradient(linear, left top, left bottom, from(#EDEDED), to(#DCDCDC));
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EDEDED', endColorstr='#DCDCDC');
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
+  color: black;
+}
+
+#display {
+  height: 70px;
+  width: 290px; /* By Ian Agpawa */
+  margin: auto;
+  background-color: white;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  text-align: right;
+  font-size: 60px;
+  padding: 0px 5px;
+  color: black;
+}
+
+#input div a {
+  width: 64px;
+  height: 47px;
+  font-size: 39px;
+  margin: 6px 7px;
+  line-height: 47px;
+}
