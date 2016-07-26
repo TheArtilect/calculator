@@ -21,7 +21,7 @@ body {
 
 #calc {
   background-color: #999;
-  width: 330px;
+  width: 350px;
   height: 450px;
   border: 3px black solid;
   margin: 10px auto;
@@ -51,8 +51,8 @@ body {
 
 #display {
   height: 70px;
-  width: 295px; /* By Ian Agpawa */
-  margin-left: 10px;
+  width: 300px; /* By Ian Agpawa */
+  margin-left: 15px;
   background-color: white;
   margin-bottom: 5px;
   margin-top: 5px;
@@ -68,4 +68,9 @@ body {
   font-size: 39px;
   margin: 6px 7px;
   line-height: 47px;
+}
+
+
+#input{
+  margin-left: 10px;;
 }
