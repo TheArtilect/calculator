@@ -21,7 +21,7 @@ body {
 
 #calc {
   background-color: #999;
-  width: 350px;
+  width: 340px;
   height: 450px;
   border: 3px black solid;
   margin: 10px auto;
@@ -51,7 +51,7 @@ body {
 
 #display {
   height: 70px;
-  width: 300px; /* By Ian Agpawa */
+  width: 290px; /* By Ian Agpawa */
   margin-left: 15px;
   background-color: white;
   margin-bottom: 5px;
