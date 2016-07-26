@@ -51,8 +51,8 @@ body {
 
 #display {
   height: 70px;
-  width: 290px; /* By Ian Agpawa */
-  margin: auto;
+  width: 295px; /* By Ian Agpawa */
+  margin-left: 10px;
   background-color: white;
   margin-bottom: 5px;
   margin-top: 5px;
@@ -68,8 +68,4 @@ body {
   font-size: 39px;
   margin: 6px 7px;
   line-height: 47px;
-}
-
-#input{
-  margin-left: 30px;
 }
